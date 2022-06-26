@@ -22,7 +22,7 @@ export const Work = [
     },
     {
         id:3,
-        name:"A game that allow you to make a crytocurrency tranfer in it",
+        name:"A game that allow you to make a crytocurrency transfer in it",
         description:"",
         tags:["Solidity","UNITY"],
         

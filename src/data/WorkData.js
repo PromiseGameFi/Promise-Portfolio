@@ -5,7 +5,7 @@ export const Work = [
         id:1,
         name:"React Portfolio Website",
         description:"",
-        tags:["react","styledComponents"],
+        tags:["react","styledComponents", "Framer-motion"],
         
         demo:"https://diap.vercel.app/",
         github:"https://github.com/diapmusic/diap"
@@ -14,7 +14,7 @@ export const Work = [
         id:2,
         name:"Game Environment Design",
         description:"",
-        tags:["UNITY","BLENDER"],
+        tags:["UNITY","BLENDER" ,"C#"],
         
         demo:"https://www.youtube.com/watch?v=3BBmn1VnLq4",
         github: "https://github.com/Diapmusic"
@@ -24,7 +24,7 @@ export const Work = [
         id:3,
         name:"A game that allow you to make a crytocurrency transfer in it",
         description:"",
-        tags:["Solidity","UNITY"],
+        tags:["Solidity","UNITY", "C#"],
         
         
         demo:"https://twitter.com/DiaP_Music/status/1540702821707907072?s=20&t=BjnIYlaVI2g9VafZzTDDeA",
@@ -34,7 +34,7 @@ export const Work = [
         id:4,
         name:"Drift Car-racing",
         description:"",
-        tags:["UNITY"],
+        tags:["UNITY","C#"],
         
         demo:"https://y8.com/games/drift_city",
         github: "https://github.com/Diapmusic"
@@ -55,7 +55,7 @@ export const Work = [
         id:6,
         name:"Environment Design 2",
         description:"",
-        tags:["Unreal Engine","Blender"],
+        tags:["Unreal Engine","Blender", "C++"],
         
         demo:"https://www.youtube.com/watch?v=3BBmn1VnLq4",
         github: "https://github.com/Diapmusic"

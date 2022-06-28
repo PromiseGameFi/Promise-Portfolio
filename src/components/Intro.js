@@ -48,7 +48,7 @@ width: 100%;
 
 @media only screen and (max-width: 700px) {
     /* For everything bigger than 700px */
-    height:70%;
+    height:100%;
 }
 
 .pic{
@@ -95,7 +95,9 @@ justify-content: space-evenly;
 
 `
 
+
 const Intro = () => {
+    
     return (
         <Box
         initial={{height:0}}

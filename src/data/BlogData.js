@@ -7,7 +7,7 @@ export const Blogs = [
         tags:[""],
         date:"",
         imgSrc:"https://i.ibb.co/KD9D2My/resume.png",
-        link:"https://github.com/Diapmusic/Resume/blob/main/OluwadarePromise_Emmanuel_Resume.PDF"
+        link:"https://github.com/Diapmusic/Diap/raw/main/src/assets/PromiseCV1.pdf"
   
       },
     

@@ -161,9 +161,6 @@ const MySkillsPage = () => {
         Game logic Scripting
     </li>
     <li>
-        Game Website/APP Development
-    </li>
-    <li>
         Game Database/Server Development
     </li>
 </ul>
@@ -210,9 +207,9 @@ const MySkillsPage = () => {
 </ul>
 </Description>
 <Description>
-<strong>Tools</strong>
+<strong>Skills</strong>
 <p>
-Solidity ~ HTML ~ CSS ~ ReactJS ~ Rust .
+    Solidity ~ Javascript ~ ReactJS ~ Rust .
 </p>
 
 

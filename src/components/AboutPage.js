@@ -83,12 +83,15 @@ const AboutPage = () => {
             <img src={astronaut} alt="spaceman" />
         </Spaceman>    
         <Main>
-            I'm a Game developer in the morning, blockchain developer at Noon and a software developer at night .
+           My name is Oluwadare Promise Emmanuel. I'm a Game Developer and Blockchain Developer based in Nigeria
         
 <br /> <br/>
-I'm a highly proficient Game Developer bringing  game concept thorough understanding of gaming trends with expertise in various programming
-languages and Design. Knowledgeable professional with a background in App /Website development and Blockchain
-Development. A driven Fullstack Developer known for reporting on the design process to the appropriate
+I'm a highly proficient Game Developer bringing proven history of successfully utilizing latest technologies to
+create exciting games. Highly energetic professional with over 4 years of experience and meticulous eye
+for detail. Thorough understanding of gaming trends combined with expertise in various programming
+languages.
+Knowledgeable professional with a background in Blockchain Development. A driven Fullstack
+Blockchain Engineer known for reporting on the design process to the appropriate
 stakeholders and debugging new and existing projects.
 <br/> <br/>
  You can connect with me via social media links.

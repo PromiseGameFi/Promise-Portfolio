@@ -90,9 +90,7 @@ I'm a highly proficient Game Developer bringing proven history of successfully u
 create exciting games. Highly energetic professional with over 4 years of experience and meticulous eye
 for detail. Thorough understanding of gaming trends combined with expertise in various programming
 languages.
-Knowledgeable professional with a background in Blockchain Development. A driven Fullstack
-Blockchain Engineer known for reporting on the design process to the appropriate
-stakeholders and debugging new and existing projects.
+Knowledgeable professional with a background in Blockchain Development. 
 <br/> <br/>
  You can connect with me via social media links.
         </Main>

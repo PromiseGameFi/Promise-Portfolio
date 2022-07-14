@@ -161,6 +161,9 @@ const MySkillsPage = () => {
         Game logic Scripting
     </li>
     <li>
+        Game AI Engineer
+    </li>
+    <li>
         Game Database/Server Development
     </li>
 </ul>

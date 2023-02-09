@@ -17,7 +17,7 @@ export const Work = [
         tags:["UNITY","BLENDER" ,"C#"],
         
         demo:"https://www.youtube.com/watch?v=3BBmn1VnLq4",
-        github: "https://github.com/Diapmusic"
+        github: "https://github.com/promise-csharp"
         
     },
     {
@@ -47,7 +47,7 @@ export const Work = [
         tags:["Spatial.io"],
         
         demo:"https://www.youtube.com/watch?v=1o23dv4Isgs",
-        github: "https://github.com/Diapmusic"
+        github: "https://github.com/promise-csharp"
        
         
     },
@@ -58,7 +58,7 @@ export const Work = [
         tags:["Unreal Engine","Blender", "C++"],
         
         demo:"https://www.youtube.com/watch?v=3BBmn1VnLq4",
-        github: "https://github.com/Diapmusic"
+        github: "https://github.com/promise-csharp"
         
        
     },
@@ -69,7 +69,7 @@ export const Work = [
         tags:["Rust"],
         
         demo:"https://github.com/Diapmusic/Rust-smart--Contracts",
-        github: "https://github.com/Diapmusic"
+        github: "https://github.com/promise-csharp"
         
        
     },
@@ -80,7 +80,7 @@ export const Work = [
         tags:["ReactJs","Solidity"],
         
         demo:"https://lynchgame-new.vercel.app/",
-        github: "https://github.com/Diapmusic"
+        github: "https://github.com/promise-csharp"
         
     },
    
